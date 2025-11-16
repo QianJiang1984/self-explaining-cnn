@@ -1,0 +1,15 @@
+# Ignore raw data files (images, saliency maps, etc.)
+data/**/*.jpg
+data/**/*.jpeg
+data/**/*.png
+data/**/*.mat
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
